@@ -24,9 +24,13 @@ dist/
 # =========================
 # Data / Outputs
 # =========================
-data/raw/
-data/interim/
+
+# Raw data → 追跡（公開データのため）
+# data/raw/
+
+# Processed / generated data
 data/processed/
+data/interim/
 
 outputs/
 models/
@@ -49,4 +53,4 @@ Thumbs.db
 # Misc
 # =========================
 *.tmp
-*.bak*
+*.bak
