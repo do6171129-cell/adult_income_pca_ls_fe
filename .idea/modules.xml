@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/adult-income-pca-ls-fe.iml" filepath="$PROJECT_DIR$/.idea/adult-income-pca-ls-fe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/adult_income_pca_ls_fe.iml" filepath="$PROJECT_DIR$/.idea/adult_income_pca_ls_fe.iml" />
     </modules>
   </component>
 </project>
